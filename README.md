@@ -38,8 +38,8 @@ pip install -r requirements.txt
 
 1. **Clone this repository:**
     ```sh
-    git clone https://github.com/Faisal-Al-Mamun/Download-YouTube-Content-using-Pytube.git
-    cd Download-YouTube-Content-using-Pytube
+    git clone https://github.com/Faisal-Al-Mamun/Download-YouTube-Content-using-Pytubefix.git
+    cd Download-YouTube-Content-using-Pytubefix
     ```
 
 2. **Install dependencies:**
