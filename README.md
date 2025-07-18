@@ -1,11 +1,3 @@
-<h1>Pytube</h1>
-
-<h1>pytube is a lightweight, Pythonic, dependency-free, library (and command-line utility) for downloading YouTube Videos.</h1>
-
-<h3> First install pytube on your pc using 'pip install pytube' command.</h3>
-<h3> Then You are ready to go.</h3>
-<h3> You can easily dowwnlad YouTube videos in various format without using any third party software.</h3>
-
 # Download YouTube Content using Pytubefix
 
 > **Note:**  
@@ -46,7 +38,7 @@ pip install -r requirements.txt
 
 1. **Clone this repository:**
     ```sh
-    git clone https://github.com/yourusername/Download-YouTube-Content-using-Pytube.git
+    git clone https://github.com/Faisal-Al-Mamun/Download-YouTube-Content-using-Pytube.git
     cd Download-YouTube-Content-using-Pytube
     ```
 
